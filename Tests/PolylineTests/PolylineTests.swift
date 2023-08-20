@@ -25,7 +25,7 @@ import CoreLocation
 #endif
 import XCTest
 
-import Polyline
+import PolylineLib
 
 private let COORD_EPSILON_1e5: Double = 0.00001
 private let COORD_EPSILON_1e6: Double = 0.000001
